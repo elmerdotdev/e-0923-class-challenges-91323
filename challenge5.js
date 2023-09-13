@@ -8,6 +8,8 @@
  * 3. If year of purchase is greater than or equal to 2020, change the car value by subtracting 1000 from the current value. Otherwise, subtract 5000 from the current value
  * 4. Print the message "My carYear carName is valued at carValue"
  * 
+ * Note: There should only be 3 variables. You must update the value of carValue in your if-else statement
+ * 
  * (Example output: My 2004 Volvo is valued at 3000)
  * 
  */

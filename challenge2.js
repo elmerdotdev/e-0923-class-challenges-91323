@@ -10,3 +10,9 @@
  * 
  * Number of lines expected: 4
  */
+
+let dtr = 50
+const PI = 3.14
+
+let cmf = dtr * PI
+console.log(cmf)

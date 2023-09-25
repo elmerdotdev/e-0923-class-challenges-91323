@@ -13,3 +13,15 @@
  * (Example output: My 2004 Volvo is valued at 3000)
  * 
  */
+
+let carName = "Volvo"
+let carYear = 2004
+let carValue = 10000
+
+if (carYear >= 2020) {
+  carValue = carValue - 1000
+} else {
+  carValue = carValue - 5000
+}
+
+console.log(`My ${carYear} ${carName} is valued at ${carValue}`)

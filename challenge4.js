@@ -9,3 +9,12 @@
  * (Example output: "My 2004 Volvo is OLD!")
  * 
  */
+
+let carName = "Volvo"
+let carYear = 2004
+
+if (carYear >= 2020) {
+  console.log(`My carYear carName is NEW!`)
+} else {
+  console.log(`My ${carYear} ${carName} is OLD!`)
+}
